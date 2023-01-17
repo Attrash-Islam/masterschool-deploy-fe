@@ -1,8 +1,0 @@
-{
-    "version": 2,
-    "env": {
-      "NODE_ENV": "production"
-    },
-    "nodeVersion": "12.x"
-  }
-  
